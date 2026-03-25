@@ -29,7 +29,7 @@
 | Feature | Description |
 |---|---|
 | 🌐 OTT Logo Navigation | Click any platform logo → redirects to official website |
-| 🤖 Q&A Natural Language | Ctrl+Click 🎬 Film icon → ask questions in plain English |
+| 🤖 Q&A Natural Language | Ctrl+Click Film icon → ask questions in plain English |
 | 📈 Drill-Through Pages | Click any visual to deep-dive into content details |
 | 🔄 Automated KPI Monitoring | Real-time genre, rating & release year filters |
 | 🗺️ Global Map Visual | Top countries by show count across all platforms |
@@ -95,7 +95,7 @@ StreamWatch-OTT-Analytics-Dashboard/
 
 1. Clone this repository
 ```bash
-   git clone https://github.com/yourusername/StreamWatch-OTT-Analytics-Dashboard.git
+   git clone https://github.com/BiplabaKrSamal/StreamWatch-OTT-Analytics-Dashboard.git
 ```
 2. Open `StreamWatch_OTT_Media_Analytics_Dashboard.pbix` 
    in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) *(free)*
@@ -107,4 +107,4 @@ StreamWatch-OTT-Analytics-Dashboard/
 
 ## 👤 Author
 
-**[Biplaba Kumar Samal]**  
+**Biplaba Kumar Samal**  
