@@ -28,7 +28,7 @@
 
 | Feature | Description |
 |---|---|
-| 🌐 OTT Logo Navigation | Click any platform logo → redirects to official website |
+| 🌐 OTT Logo Navigation | Ctrl+Click any platform logo → redirects to official website |
 | 🤖 Q&A Natural Language | Ctrl+Click Film icon → ask questions in plain English |
 | 📈 Drill-Through Pages | Click any visual to deep-dive into content details |
 | 🔄 Automated KPI Monitoring | Real-time genre, rating & release year filters |
@@ -100,7 +100,7 @@ StreamWatch-OTT-Analytics-Dashboard/
 2. Open `StreamWatch_OTT_Media_Analytics_Dashboard.pbix` 
    in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) *(free)*
 3. Use **Navigation buttons** (top-left) to switch between platforms
-4. **Ctrl + Click** the 🎬 icon to use natural language Q&A
+4. **Ctrl + Click** the Film icon to use natural language Q&A
 5. Click any **OTT logo** to visit the platform's official website
 
 ---
